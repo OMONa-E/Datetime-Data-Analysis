@@ -56,3 +56,9 @@ A seasonality analysis is conducted to identify cyclic patterns in crime occurre
 
 The project showcases the utilization of Chicago crime data for data visualization and analysis. By exploring trends, patterns, and seasonality in crime occurrences, valuable insights are gained into the dynamics of criminal activities over the years.
 
+## Tableau Dashboard
+
+![Tableau Dashboard Screenshot](tableau_dashboard_screenshot.png)
+
+[Link to Tableau Dashboard](https://public.tableau.com/shared/RQCX2WT7Y?:display_count=n&:origin=viz_share_link)
+
