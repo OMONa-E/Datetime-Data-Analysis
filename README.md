@@ -58,7 +58,7 @@ The project showcases the utilization of Chicago crime data for data visualizati
 
 ## Tableau Dashboard
 
-![Tableau Dashboard Screenshot](tableau_dashboard_screenshot.png)
+![Tableau Dashboard Screenshot](Chicago Crime Main Dashboard.png)
 
 [Link to Tableau Dashboard](https://public.tableau.com/shared/RQCX2WT7Y?:display_count=n&:origin=viz_share_link)
 
