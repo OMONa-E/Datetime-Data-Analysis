@@ -58,7 +58,7 @@ The project showcases the utilization of Chicago crime data for data visualizati
 
 ## Tableau Dashboard
 
-![Tableau Dashboard Screenshot](Chicago Crime Main Dashboard.png)
+![Tableau Dashboard Screenshot]([Chicago Crime Main Dashboard.png](https://github.com/OMONa-E/Datetime-Data-Analysis/blob/main/Chicago%20Crime%20Main%20Dashboard.png))
 
 [Link to Tableau Dashboard](https://public.tableau.com/shared/RQCX2WT7Y?:display_count=n&:origin=viz_share_link)
 
